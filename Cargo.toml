@@ -12,7 +12,7 @@ authors = [
 
 license = "MIT OR Apache-2.0"
 
-categories = ["embedded", "hardware-support", "no-std"]
+categories = ["embedded", "hardware-support", "no-std", "asynchronous"]
 keywords = ["driver", "embedded-hal-driver", "sensirion", "sht40"]
 
 exclude = ["/.github/", ".gitignore"]
